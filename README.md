@@ -6,6 +6,11 @@
 - Undergraduate Student Majoring in Math and Minoring in Digital Computational Sciences | Bates College (_May 2025_)	
 
 ## Work Experience
+**Data Analyst and Community-Engaged Researcher (_September 2023-December 2023_)**
+- Collaborated on a project to analyze participant locations in recreational programs
+- Project required tasks including developing a versatile code for data analysis, creating mock datasets and authorizing a detailed data formatting guide, and facilitating communication with community partners and aiding in the analysis of the Kennedy Park Pool participant map
+
+
 **Advisor and Data Analyst @ Bates College Center for Purposeful Work (_Summer 2023_)**
 - Transcribe extracted, cleaned, and transcribed data from Excel Sheets and Handshake platform, along with student-based answers, to develop insightful visualizations using Power BI and Tableau software
 - Manage website content for Purposeful Work, ensure up-to-date information and user-friendly navigation
