@@ -31,6 +31,12 @@ In analyzing Bates College's Practitioner-Taught Course (PTC) program, I applied
 
 - [Documentation of Project](/ptc_data_project.pdf)
 
+### Community-Engaged Data Science Project: Kennedy Pool Program Analysis
+
+In our project, we leveraged Python and data visualization tools to analyze Kennedy Park Pool data, creating an informative residence map. This scalable program, born from the initial success, offers the City of Lewiston a dynamic tool for understanding user demographics across different programs. Designed for sustainability, the program serves as a template for targeted advertising and community engagement, aligning with principles of design justice and providing a lasting impact for current and future collaborators at Lewiston City Hall.
+
+- [Documentation of Project](https://batesdcs23-24.github.io/City_of_Lewiston_GroupB/)
+
 ## Other Links
 
 - [My Linkedin](https://www.linkedin.com/in/jamil-mouehla/)
