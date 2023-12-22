@@ -1,6 +1,6 @@
 # Aspiring Data Scientist
 
-#### Technical Skills: Python, SQL, Tableau, Power BI
+#### Technical Skills: Python, SQL, Tableau, Power BI, R
 
 ## Education
 - Undergraduate Student Majoring in Math and Minoring in Digital Computational Sciences | Bates College (_May 2025_)	
